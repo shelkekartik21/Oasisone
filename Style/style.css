@@ -51,7 +51,7 @@ html {
 
 .navbar .list a:hover{
     opacity: 1;
-    background-color: gray;
+    background-color: pink;
 }
 
 .Home{
